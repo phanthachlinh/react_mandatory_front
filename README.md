@@ -1,0 +1,1 @@
+# react_mandatory_front
